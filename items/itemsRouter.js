@@ -46,7 +46,7 @@ router.get("/location/search", authCustomers(), async (req, res, next) => {
 })
 
 // to get a specific item by location
-router.get("/location/search/:id", authCustomers, validateItemsByLocationById(), (req, res) => {
+router.get("/location/search/:id", authCustomers(), validateItemsByLocationById(), (req, res) => {
     res.status(200).json(req.items);
   });
 
