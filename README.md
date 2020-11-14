@@ -11,7 +11,7 @@
     <img alt="License: MIT" src="https://img.shields.io/apm/l/vim-mode" />
   </a>
    <a href="https://github.com/lambda-bw-african-marketplace/jorge-BE/tree/feature/main" target="_blank">
-    <img alt="tweeter" src=https://img.shields.io/twitter/follow/j_jimenez83?style=social />
+    <img alt="tweeter" href="https://twitter.com/J_Jimenez83" src=https://img.shields.io/twitter/follow/j_jimenez83?style=social />
   </a>
 </p>
 
