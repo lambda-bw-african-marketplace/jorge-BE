@@ -1,0 +1,11 @@
+
+exports.seed = async function(knex) {
+	await knex("items").insert([
+                { id: 1, item_name: "computer", item_description: "This computer is brand new, it has 200 gb of memory, and its really fast", item_price: 300.99, item_category: "electronics", item_location: "miami, USA", url_item: "https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60", seller_id: 1 },
+                { id: 2, item_name: "leather bag", item_description: " beautiful brown leather bag, greate for travels", item_price: 150.57, item_category: "accesories", item_location: "paris, France", url_item: "https://images.unsplash.com/photo-1520946708818-4966701c25e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60", seller_id: 2 },
+                { id: 3, item_name: "bicycle", item_description: "white road bicycle, light weight, and with 12 speed modules", item_price: 650.99, item_category: "transportations", item_location: "mexico city, Mexico", url_item: "https://images.unsplash.com/photo-1571068316344-75bc76f77890?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60", seller_id: 3 },
+                { id: 4, item_name: "iphone 11", item_description: "iphone 11 latest version", item_price: 1100.00, item_category: "electronics", item_location: "miami, USA", url_item: "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60", seller_id: 1 },
+                { id: 5, item_name: "leather wallet", item_description: "leather wallet, with greate space for cards", item_price: 120.50, item_category: "accesories", item_location: "paris, France", url_item: "https://images.unsplash.com/photo-1532033375034-a29004ea9769?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60", seller_id: 2 },
+                { id: 6, item_name: "black scooter", item_description: "greate black scooter, capacity of 12 miles every full charge", item_price: 200.00, item_category: "transportation", item_location: "mexico city, Mexico", url_item: "https://images.unsplash.com/photo-1597260491651-ee327fc487b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60", seller_id: 3 },
+	])
+}
