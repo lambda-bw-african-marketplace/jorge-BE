@@ -8,7 +8,10 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/lambda-bw-african-marketplace/Jorge-BE/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/lambda-bw-african-marketplace/jorge-backend" />
+    <img alt="License: MIT" src="https://img.shields.io/apm/l/vim-mode" />
+  </a>
+   <a href="https://github.com/lambda-bw-african-marketplace/jorge-BE/tree/feature/main" target="_blank">
+    <img alt="Social Likes" src="https://img.shields.io/github/stars/caleno83?style=social" />
   </a>
 </p>
 
@@ -22,6 +25,8 @@ In this app, business owners can create, update, or remove listing of items they
 ### 🏠 [Homepage](https://github.com/lambda-bw-african-marketplace/Jorge-BE#readme)
 
 ### 📄  [API Docs](https://github.com/lambda-bw-african-marketplace/Jorge-BE#readme)
+
+### 👩‍💻  [PVD](https://www.notion.so/Product-Vision-Document-cb2003da1de2494390b631ebdc7a5918)
 
 ## Install
 
@@ -51,7 +56,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-This project is [ISC](https://github.com/lambda-bw-african-marketplace/Jorge-BE/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/lambda-bw-african-marketplace/Jorge-BE/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
