@@ -1,0 +1,35 @@
+{
+  "name": "jorge-backend",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Welcome to African Markeplace Jorge-Backend 👋</h1> <p>   <img alt=\"Version\" src=\"https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000\" />   <a href=\"https://github.com/lambda-bw-african-marketplace/Jorge-BE#readme\" target=\"_blank\">     <img alt=\"Documentation\" src=\"https://img.shields.io/badge/documentation-yes-brightgreen.svg\" />   </a>   <a href=\"https://github.com/lambda-bw-african-marketplace/Jorge-BE/graphs/commit-activity\" target=\"_blank\">     <img alt=\"Maintenance\" src=\"https://img.shields.io/badge/Maintained%3F-yes-green.svg\" />   </a>   <a href=\"https://github.com/lambda-bw-african-marketplace/Jorge-BE/blob/master/LICENSE\" target=\"_blank\">     <img alt=\"License: ISC\" src=\"https://img.shields.io/github/license/lambda-bw-african-marketplace/jorge-backend\" />   </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambda-bw-african-marketplace/jorge-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambda-bw-african-marketplace/jorge-BE/issues"
+  },
+  "homepage": "https://github.com/lambda-bw-african-marketplace/jorge-BE#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.12",
+    "pg": "^8.5.0",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
