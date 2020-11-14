@@ -22,9 +22,9 @@ In this app, business owners can create, update, or remove listing of items they
 
 <a>In this repo, you will see only the backend part for the application, and the backend was made with knex, express, sqlite, and more!</a>
 
-### 🏠 [Homepage](https://github.com/lambda-bw-african-marketplace/Jorge-BE#readme)
+### 🏠 [Heroku BaseURL](https://marketplace-africa.herokuapp.com/)
 
-### 📄  [API Docs](https://github.com/lambda-bw-african-marketplace/Jorge-BE#readme)
+### 📄  [API Docs](https://docs.google.com/document/d/1uCZdRmDlScwxijzjarOwWF6yUUbbeF1lZfevwaYrFH8/edit?usp=sharing)
 
 ### 👩‍💻  [PVD](https://www.notion.so/Product-Vision-Document-cb2003da1de2494390b631ebdc7a5918)
 
