@@ -11,7 +11,7 @@
     <img alt="License: MIT" src="https://img.shields.io/apm/l/vim-mode" />
   </a>
    <a href="https://github.com/lambda-bw-african-marketplace/jorge-BE/tree/feature/main" target="_blank">
-    <img alt="Social Likes" src="https://img.shields.io/github/stars/caleno83?style=social" />
+    <img alt="tweeter" src=https://img.shields.io/twitter/follow/j_jimenez83?style=social />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ In this app, business owners can create, update, or remove listing of items they
 
 ### 🏠 [Heroku BaseURL](https://marketplace-africa.herokuapp.com/)
 
-### 📄  [API Docs](https://docs.google.com/document/d/1uCZdRmDlScwxijzjarOwWF6yUUbbeF1lZfevwaYrFH8/edit?usp=sharing)
+### 📄  [API Docs](https://docs.google.com/document/d/e/2PACX-1vTMDoreMN60kH922hbOZcXFOdr9jFTOHOHJ98sn5_cpkKIuURu6hesmDXufVNR3zrzKKGC7MD1pfkvR/pub)
 
 ### 👩‍💻  [PVD](https://www.notion.so/Product-Vision-Document-cb2003da1de2494390b631ebdc7a5918)
 
