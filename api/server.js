@@ -5,6 +5,7 @@ const sellersRouter = require("../auth/sellersRouter")
 const customersRouter = require("../auth/customersRouter")
 const itemsRouter = require("../items/itemsRouter")
 const logger = require("../middleware/logger")
+const env = require("dotenv/config")
 
 
 const server = express();
