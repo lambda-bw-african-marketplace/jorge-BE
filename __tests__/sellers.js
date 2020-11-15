@@ -36,4 +36,3 @@ describe("integration tests for  sellers auth", () => {
         expect(res.type).toBe("application/json")
     })
  })
-
