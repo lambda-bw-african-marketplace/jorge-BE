@@ -22,7 +22,7 @@ In this app, business owners can create, update, or remove listing of items they
 
 <a>In this repo, you will see only the backend part for the application, and the backend was made with knex, express, sqlite, and more!</a>
 
-<a>In Branch feature/main, you can see testing all the endpoints, using jest, and supertest</a>
+<a>On Branch feature/main, you can see how all endpoints are tested, using jest, and supertest</a>
 
 ### 🏠 [Heroku BaseURL](https://marketplace-africa.herokuapp.com/)
 
