@@ -25,8 +25,11 @@ server.use((err, req, res, next) => {
   });
 });
 
+
 server.get("/", (req, res) => {
-  res.send(`<h2>Welcome to Build Week Project - African Marketplace</h2>`);
-});
+	res.json({
+		message: "Welcome to Build Week Project - African Marketplace",
+	})
+})
 
 module.exports = server;
