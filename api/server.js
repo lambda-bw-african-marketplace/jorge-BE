@@ -27,9 +27,7 @@ server.use((err, req, res, next) => {
 
 
 server.get("/", (req, res) => {
-	res.json({
-		message: "Welcome to Build Week Project - African Marketplace",
-	})
-})
+  res.send(`<h2>Welcome To My Own Auth Project</h2>`);
+});
 
 module.exports = server;
