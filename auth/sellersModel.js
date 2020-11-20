@@ -22,7 +22,7 @@ function findBySeller(filter) {
 // find sellers by id
 function findByIdSeller(id) {
 	return db("sellers")
-		.select("id", "email", "full_name")
+		.select("id", "email", "password", "full_name")
 		.where({ id })
 		.first()
 }
