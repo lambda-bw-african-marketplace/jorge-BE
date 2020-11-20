@@ -20,7 +20,7 @@
 <a>The African Marketplace App was created to empowers small business owners to improve their business and economic opportunities to grow out of poverty.
 In this app, business owners can create, update, or remove listing of items they have for sale, and users can search the listing of items by locations, and/or categories.</a>
 
-<a>In this repo, you will see only the backend part for the application, and the backend was made with knex, express, sqlite, and more!</a>
+<a>In this repo, you will see only the backend part for the application, and the backend was made with knex, express, sqlite, postgresand more!</a>
 
 <a>In Branch feature/main, you can see how all endpoints are tested, using jest, and supertest</a>
 
