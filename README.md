@@ -28,6 +28,10 @@ In this app, business owners can create, update, or remove listing of items they
 
 ### 👩‍💻  [PVD](https://www.notion.so/Product-Vision-Document-cb2003da1de2494390b631ebdc7a5918)
 
+###  💻  [FrontEnd-Page created by Jorge Jimenez](https://african-marketplace-eta.vercel.app/)
+
+###  📌  [Front-end Repo](https://github.com/Caleno83/african-marketplace)
+
 ## Install
 
 ```sh
